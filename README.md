@@ -1,5 +1,3 @@
-# electronjs_setup
-A beginner-friendly Electron.js starter to build and run desktop apps using HTML, CSS, and JS
 ## Electron.js Setup Guide
 
 This guide helps you go from ✨ zero to launching your own desktop app ✨ using Electron.js. no stress, just you, Node.js, and desktop magic.
